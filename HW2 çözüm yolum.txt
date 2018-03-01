@@ -1,0 +1,3 @@
+﻿Fibonacci dizisinin kuralı her sayının kendinden öncekiyle toplanmasıdır bende bu kuralı
+bir döngü içerisinde kullandım ve kullanıcıdan kaçıncı değere kadar istediğini sordum
+kullanıcı hatalı bir giriş yapmadıysa girdiği değer kadar dizi ekrana basılıyor.
