@@ -1,0 +1,3 @@
+Ýlk olarak programýn hangi iþlemi yapacaðýný anlayabilmesi için programý bloklar haline yazmaya karar verdim
+daha sonra kullanýcýya hangi iþlemi yapacaksa o iþlemin bloðunun numarasýný girmesini istedim
+kullanýcý hatalý giriþ yapmazsa kullanýcýdan 2 sayý girmesini istedim ve sonrasýnda da sonucu yazdýrdým.
