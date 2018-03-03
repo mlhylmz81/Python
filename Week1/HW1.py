@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-import sys
-
 while True:
 	islem = input("[+]Toplama\n[-]Çıkarma\n[*]Çarpma\n[/]Bölme\nLütfen yapacağınız işlemi giriniz(Çıkış için exit yazabilirsiniz): ")
 	if islem == "exit":
