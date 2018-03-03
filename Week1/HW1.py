@@ -15,6 +15,8 @@ while True:
 	elif islem == "/":
 		if sayi2 <= 0:
 			sonuc = 0
+		elif sayi1 <= 0 :
+			sonuc = 0
 		else:
 			sonuc = sayi1 / sayi2
 	print("İşlem başarılı!")
