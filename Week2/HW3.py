@@ -1,6 +1,5 @@
 kelime = input("Bir kelime veya cümle giriniz: ")
 duzenli = ""
-
 for harf in kelime:
     if harf not in duzenli:
         duzenli += harf
