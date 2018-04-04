@@ -1,3 +1,4 @@
+import unittest
 class Node(object):
     def __init__(self, data = None, next_node = None):
         self.data = data
@@ -44,3 +45,4 @@ m2 = Node(2, m1)
 m3 = Node(3, m2)
 m4 = Node(4, m3)
 m5 = Node(5, m4)
+unittest.main()
